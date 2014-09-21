@@ -29,7 +29,7 @@ All art was last sourced September 20, 2014.
 
 ## iu_tab.svg
 
-![iu_tab.svg](iu_tab.svg)
+![iu_tab.svg](https://cdn.rawgit.com/basham/block-iu/d0603335fd1db60032ce41b1fe7f73591a9ffcae/prior-art/iu_tab.svg)
 
 - Width: `164.840332px`
 - Height: `191.9111328px`
