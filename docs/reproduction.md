@@ -151,11 +151,11 @@ following, in various color modes:
 
 Color | Pantone | CMYK | RGB
 ---|---|---|---|---
-Crimson | 201 | `C0 M100 Y63 K29` | `#7d110c`
+Crimson | 201 | `C0 M100 Y63 K29` | `#7D110C`
 
 `iu_tab.eps` is set in CMYK mode because it's intended for print. When exporting
 this print file for the web, the crimson color incorrectly converts to a softer
-variation (`#a51e36`), rather than to the intended color (`#7d110c`).
+variation (`#A41F35`), rather than to the intended color (`#7D110C`).
 To resolve this, all colors must be set to their intended RGB colors after
 setting the document color mode to RGB.
 
