@@ -139,8 +139,8 @@ vertical bar should be `7 units`.
 
 ### Combining assumptions
 
-By combining these assumptions, the intended inner proportions of the monogram
-at `15 × 19 units` is quite evident.
+Combining these assumptions produces the intended inner proportions of the
+monogram at `15 × 19 units`.
 
 ![Inner proportions of the monogram](images/guide-08.png)
 
