@@ -163,7 +163,7 @@ setting the document color mode to RGB.
 
 By illustrating the monogram using corrected dimensions, inner proportions, and
 colors, the new Block IU (shown first) is significantly improved over its
-predecessor (shown second).
+scaled-down predecessor (shown second).
 
 ![New monogram at 1x scale](images/block-iu-25x29-new-1x.png)![Old monogram at 1x scale](images/block-iu-25x29-old-1x.png)
 
