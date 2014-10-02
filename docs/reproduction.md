@@ -150,7 +150,7 @@ The [crimson color is defined](http://brand.iu.edu/apply/color.shtml) as the
 following, in various color modes:
 
 Color | Pantone | CMYK | RGB
----|---|---|---|---
+:--|:--|---|---|---
 Crimson | 201 | `C0 M100 Y63 K29` | `#7D110C`
 
 `iu_tab.eps` is set in CMYK mode because it's intended for print. When exporting
