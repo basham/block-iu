@@ -59,9 +59,9 @@ an [SVG version](../prior-art/iu_tab.svg) of the original
 ## Dimensions
 
 If the coordinates of the anchor points should change, then perhaps it's best to
-first examine the dimensions of the monogram. If the dimensions of `107.294pt`
-wide by `135.402pt` high is tweaked, perhaps it can be reimagined as a more
-reasonable aspect ratio, ideally scalable from a smaller size.
+first examine how the `107.294pt × 135.402pt` dimensions of the monogram could
+be reimagined as a more reasonable aspect ratio, ideally scalable from a smaller
+size.
 
 The most stable aspect of the monogram is the three vertical stems,
 dividing the monogram's width into three equal columns. Therefore, if the width
