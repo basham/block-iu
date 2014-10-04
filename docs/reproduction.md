@@ -14,7 +14,7 @@ not [RGB](http://en.wikipedia.org/wiki/RGB_color_model). Second, the document
 unit is set as [points](http://en.wikipedia.org/wiki/Point_(typography)), not
 [pixels](http://en.wikipedia.org/wiki/Pixel).
 
-![iu_tab.eps opened in Adobe Illustrator](images/illustrator-cmyk-pt.png)
+![iu_tab.eps opened in Adobe Illustrator](images/illustrator-iu-tab.png)
 
 ## Anchor points
 
@@ -59,14 +59,9 @@ an [SVG version](../prior-art/iu_tab.svg) of the original
 ## Dimensions
 
 If the coordinates of the anchor points should change, then perhaps it's best to
-first examine the dimensions of the monogram. Because the `<polygon/>` SVG tag
-doesn't explicitly contain that information, it can be garnered from Illustrator.
-
-![Block IU dimensions in Illustrator](images/illustrator-dimensions.png)
-
-If the dimensions of `107.294pt` wide by `135.402pt` high is tweaked, perhaps
-it can be reimagined as a more reasonable aspect ratio, ideally scalable from a
-smaller size.
+first examine the dimensions of the monogram. If the dimensions of `107.294pt`
+wide by `135.402pt` high is tweaked, perhaps it can be reimagined as a more
+reasonable aspect ratio, ideally scalable from a smaller size.
 
 The most stable aspect of the monogram is the three vertical stems,
 dividing the monogram's width into three equal columns. Therefore, if the width
